@@ -10,3 +10,7 @@ Test project
 5. git add testfiletoadd.txt
 6. git commit testfiletoadd.txt -m "test file"
 7. git push
+
+## From idea
+https://www.jetbrains.com/idea/help/publishing-a-project-on-github.html
+On the main menu, choose VCS | Import into Version Control | Share Project on GitHub. 
